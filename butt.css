@@ -1,0 +1,27 @@
+.night{
+  background-color: rgb(64, 230, 188);
+}
+.block{
+  display: block;
+  padding-top: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 100px;
+  width: 1800px;
+  height: 400px;
+  font: Georgia; color:rgb(216, 108, 122);
+  text-decoration: none;
+}
+.ssylka{
+  display: block;
+  font: Georgia; color:ghostwhite;
+  text-decoration: none;
+  background-color:rgb(216, 108, 122);
+  width: 350px;
+  height: 60px;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 300px;
+
+}
