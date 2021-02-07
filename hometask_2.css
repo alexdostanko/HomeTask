@@ -1,0 +1,28 @@
+.body {
+  background-color: rgb(253, 147, 179);
+}
+.name {
+  font: 50px, bold, Arial; color:rgb(253, 253, 253);
+  margin-top: 150px;
+  margin-bottom: 50px;
+}
+.table{
+  border-collapse: collapse;
+  border: 2px solid rgb(235, 42, 132);
+  width: 400px;
+  background: linear-gradient(to top left, rgb(94, 227, 245), rgb(255, 138, 157));
+  font: 50px, bolder, Arial; color:rgb(252, 252, 252);
+}
+.th, td {
+  padding: 20px 40px;
+  border: 2px solid rgb(235, 42, 132);
+  font: 50px, bolder, Arial; color:rgb(252, 252, 252);
+  text-align: center;
+
+}
+.h2 {
+  font: 50px, bold, Arial; color:rgb(255, 255, 255);
+  text-align:left;
+  margin-left: 570px;
+  margin-top: 50px;
+}
